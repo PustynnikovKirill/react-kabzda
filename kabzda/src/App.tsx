@@ -1,16 +1,17 @@
 import React from 'react';
-import {Accordion} from "./Accordion";
-import {OnOff} from "./OnOff";
+import {OnOff} from "./OnOff/OnOff";
+import {Uncontrolaccordion} from "./Accordion/Accordion";
+import {UnControledRating} from "./Rating/Rating";
 
 
-export const App =()=>{
-  return (
-    <div>
-        <OnOff/>
-     {/* <Accordion titleValue={"dfbgd"} collapsed = {true}/>
-      <Accordion titleValue={"vvgdrtfd"} collapsed = {false}/>*/}
-    </div>
-  );
+export const App = () => {
+    return (
+        <div className="App">
+            <OnOff/>
+            <Uncontrolaccordion titleValue={"Menu"}/>
+            <UnControledRating/>
+        </div>
+    );
 }
 
 

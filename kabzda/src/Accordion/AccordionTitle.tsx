@@ -1,5 +1,5 @@
 import React from 'react';
-
+import style from 'AccordionTitle.module.css'
 type AccordionTitleType = {
     titleValue: string
 }

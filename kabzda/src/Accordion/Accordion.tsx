@@ -2,6 +2,9 @@ import React, {useState} from 'react';
 import {AccordionTitle} from "./AccordionTitle";
 import {Star} from "./Star";
 
+
+
+
 type propsAccordionType = {
     titleValue:string
     collapsed?:boolean
