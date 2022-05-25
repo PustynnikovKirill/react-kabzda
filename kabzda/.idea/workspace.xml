@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0d29532-2dd5-4ad2-83c9-0c57f7597f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Accordion/Accordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accordion/AccordionTitle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accordion/AccordionTitle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accordion/Star.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rating/Rating.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Accordion.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnOff/OnOff.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Star.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Accordion/Star.tsx" afterDir="false" />
+    <list default="true" id="91bf03b8-623a-44ba-bf8e-7704b94d458c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Rating.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="tsconfig.json" />
-        <option value="TypeScript JSX File" />
-        <option value="CSS File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -34,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29bIB5M3BiXvh4RkgMhlhefrj4s" />
+  <component name="ProjectId" id="29dzNe7fu8Uk84qzCtPHKHjvPg9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,28 +26,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="E:\react-kabzda\kabzda\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\react-kabzda\kabzda\src\OnOff" />
-      <recent name="E:\react-kabzda\kabzda\src\Accordion" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a0d29532-2dd5-4ad2-83c9-0c57f7597f72" name="Changes" comment="" />
-      <created>1653375220086</created>
+      <changelist id="91bf03b8-623a-44ba-bf8e-7704b94d458c" name="Changes" comment="" />
+      <created>1653457735032</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653375220086</updated>
-      <workItem from="1653375225930" duration="9658000" />
+      <updated>1653457735032</updated>
+      <workItem from="1653457736139" duration="3099000" />
     </task>
     <servers />
   </component>
