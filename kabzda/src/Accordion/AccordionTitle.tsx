@@ -1,11 +1,11 @@
 import React from 'react';
-import style from 'AccordionTitle.module.css'
 type AccordionTitleType = {
     titleValue: string
+    onclickStar:()=>void
 }
 export const AccordionTitle =(props:AccordionTitleType)=>{
     return (
-        <h3>---{props.titleValue}---</h3>
+        <h3 onClick={()=>{props.onclickStar()}}>---{props.titleValue}---</h3>
 
     );
 }

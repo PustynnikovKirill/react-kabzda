@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91bf03b8-623a-44ba-bf8e-7704b94d458c" name="Changes" comment="">
+    <list default="true" id="d7d25b1a-1b69-49f8-9dcc-d884d97ef547" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Accordion/AccordionTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Accordion/AccordionTitle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Accordion/UnAccordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Accordion/UnAccordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Accordion/Uncontrolaccordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Accordion/Uncontrolaccordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OnOff/OnOffControl.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnOff/OnOffControl.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rating/Rating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29dzNe7fu8Uk84qzCtPHKHjvPg9" />
+  <component name="ProjectId" id="29si9J91oTwEDvUvGjx2UHB9tXK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,12 +43,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91bf03b8-623a-44ba-bf8e-7704b94d458c" name="Changes" comment="" />
-      <created>1653457735032</created>
+      <changelist id="d7d25b1a-1b69-49f8-9dcc-d884d97ef547" name="Changes" comment="" />
+      <created>1653908041177</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653457735032</updated>
-      <workItem from="1653457736139" duration="3099000" />
+      <updated>1653908041177</updated>
+      <workItem from="1653908070726" duration="4915000" />
     </task>
     <servers />
   </component>

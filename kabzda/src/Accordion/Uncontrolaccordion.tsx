@@ -1,25 +1,25 @@
 import React, {useState} from 'react';
 import {AccordionTitle} from "./AccordionTitle";
-import {Star} from "./Star";
-
+import {itemType, UnAccordion} from "./UnAccordion";
 
 
 
 type propsAccordionType = {
     titleValue:string
-    collapsed?:boolean
+    collapsed:boolean
+    setStar:(collapsed:boolean)=>void
+    items:itemType[]
+    onClick:(value:any)=>void
 }
 export const Uncontrolaccordion=(props:propsAccordionType)=>{
-    let [star,setStar]=useState(false)
-    const onclickStar =()=> {
-        setStar(!star )
 
+    const onclickStar =()=> {
+        props.setStar(!props.collapsed)
     }
     return (
         <div>
-           <AccordionTitle titleValue={props.titleValue}/>
-            <button onClick={onclickStar}>TOOGLE</button>
-            {!star && <Star/>}
+           <AccordionTitle titleValue={props.titleValue} onclickStar={onclickStar}/>
+            {!props.collapsed && <UnAccordion items={props.items} onClick={props.onClick}/>}
         </div>
 
     );
