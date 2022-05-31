@@ -3,6 +3,7 @@ import {OnOff} from "./OnOff/OnOff";
 import {Uncontrolaccordion} from "./Accordion/Uncontrolaccordion";
 import {Rating, ValueType} from "./Rating/Rating";
 import {OnOffControl} from "./OnOff/OnOffControl";
+import {Select} from "./select/select";
 
 
 export const App = () => {
@@ -23,8 +24,8 @@ export const App = () => {
                                 setStar={setStar}
                                 titleValue={"Menu"}
                                 items={[{title:'Kirill', value:1},
-                                    {title:'Dimych', value:2},
-                                    {title:'Valerqa', value:3}]}
+                                      {title:'Dimych', value:2},
+                                      {title:'Valerqa', value:3}]}
                                 onClick={onclick}
             />
             <Rating value={rating}  setRating={setRating}/>
