@@ -11,6 +11,7 @@ type propsAccordionType = {
     items:itemType[]
     onClick:(value:any)=>void
 }
+
 export const Uncontrolaccordion=(props:propsAccordionType)=>{
 
     const onclickStar =()=> {

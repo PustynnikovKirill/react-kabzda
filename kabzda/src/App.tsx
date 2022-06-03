@@ -4,6 +4,7 @@ import {Uncontrolaccordion} from "./Accordion/Uncontrolaccordion";
 import {Rating, ValueType} from "./Rating/Rating";
 import {OnOffControl} from "./OnOff/OnOffControl";
 import {Select} from "./select/select";
+import {Example1} from "./counter/counter";
 
 
 export const App = () => {
@@ -13,7 +14,7 @@ export const App = () => {
     let [star,setStar]=useState(false)
 
     const onclick = (value:any) => {
-        alert('gghfjyghjyjdnj ${value} rtyhjrtj ')
+        alert('gghfjyghjyjdnj rtyhjrtj ')
     }
 
     return (
@@ -29,6 +30,7 @@ export const App = () => {
                                 onClick={onclick}
             />
             <Rating value={rating}  setRating={setRating}/>
+            <Example1/>
         </div>
     );
 }
