@@ -5,6 +5,7 @@ import {Rating, ValueType} from "./Rating/Rating";
 import {OnOffControl} from "./OnOff/OnOffControl";
 import {Select} from "./select/select";
 import {Example1} from "./counter/counter";
+import {Clock} from "./clock/Clock";
 
 
 export const App = () => {
@@ -31,6 +32,7 @@ export const App = () => {
             />
             <Rating value={rating}  setRating={setRating}/>
             <Example1/>
+            <Clock/>
         </div>
     );
 }

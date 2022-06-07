@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1d2b390-28f2-4382-97bd-028546b2af9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/counter/counter.tsx" afterDir="false" />
+    <list default="true" id="ebb8e25b-1f64-4f3e-8a47-ee3c92eb4a33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/clock/Clock.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Accordion/Uncontrolaccordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Accordion/Uncontrolaccordion.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2A3RrwZEJ7wH0GvpOq0xgHajTUw" />
+  <component name="ProjectId" id="2AEx6UyTBk1QnQEJGNOCMDcaNZb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,15 +40,20 @@
     <property name="ts.external.directory.path" value="E:\react-kabzda\kabzda\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\react-kabzda\kabzda\src\clock" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1d2b390-28f2-4382-97bd-028546b2af9f" name="Changes" comment="" />
-      <created>1654236485711</created>
+      <changelist id="ebb8e25b-1f64-4f3e-8a47-ee3c92eb4a33" name="Changes" comment="" />
+      <created>1654588370561</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654236485711</updated>
-      <workItem from="1654236488306" duration="3487000" />
+      <updated>1654588370561</updated>
+      <workItem from="1654588372852" duration="5547000" />
     </task>
     <servers />
   </component>
